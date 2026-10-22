@@ -12,6 +12,10 @@ export function parseEdition(raw,file='edition'){
  if(!/^\d{4}-\d{2}-\d{2}$/.test(meta.date)||new Date(meta.date).toISOString().slice(0,10)!==meta.date)throw Error('Invalid date');
  if(!['briefing','guide'].includes(meta.kind))throw Error('Invalid kind');
  if(!Array.isArray(meta.topics)||!meta.topics.length||meta.topics.some(t=>!topics.some(x=>x.id===t)))throw Error('Invalid topics');
+ const imageData=JSON.parse(fs.readFileSync(new URL('../data/images.json',import.meta.url)));
+ if(meta.cover!==undefined&&(typeof meta.cover!=='string'||!Object.hasOwn(imageData,meta.cover)))throw Error('Unknown cover image');
+ if(meta.visuals!==undefined&&(!meta.visuals||Array.isArray(meta.visuals)||typeof meta.visuals!=='object'||Object.values(meta.visuals).some(v=>typeof v!=='string'||!Object.hasOwn(imageData,v))))throw Error('Unknown section image');
+ if(meta.interactive!==undefined&&meta.interactive!=='inverse-problems')throw Error('Unsupported interactive explanation');
  const body=match[2];if(body.length<300)throw Error('Edition too short');
  const links=[...body.matchAll(/\]\((https:\/\/[^\s)]+)\)/g)].map(x=>x[1]);
  if(!links.length)throw Error('Sources required');

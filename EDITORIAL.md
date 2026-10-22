@@ -33,3 +33,9 @@ For each covered segment, seek an excellent verified video. Give title, creator,
 ## Voice and continuity
 
 Clear, rigorous, grounded and curious. No sensationalism, exaggerated predictions, flattery or empty motivational introductions. Read recent editions to avoid repetition unless a meaningful development changes the story. Date substantive corrections and preserve the permanent archive.
+
+## Visual editions
+
+Each edition should feel like a readable research magazine: a story-specific cover, short highlights, expandable mechanisms/evidence/sources and relevant credited images. Use the edition's optional `cover` and `visuals` metadata to refer to registered assets in `data/images.json`; all edition text stays in Markdown. Keep exact signal headings as the mapping keys. The shared renderer adds navigation, reading-depth controls and subtle animation automatically. Choose visuals for understanding, not spectacle, and distinguish context photographs from direct scientific evidence.
+
+Where useful, include an accessible interactive demonstration with assumptions and a static fallback. Only use supported, relevant interactions. Never attach the inverse-problems demo to an unrelated topic just to create movement. Every control must work with a keyboard, and reduced-motion settings must keep content readable.

@@ -46,5 +46,53 @@
     "file": "images/earth-s-city-lights-by-dmsp-1994.jpg",
     "alt": "A global map of city lights from satellite observations in 1994–1995.",
     "caption": "Earth’s city lights, 1994–1995. A view of the systems we build."
+  },
+  "optics": {
+    "title": "Laser Optics - Idaho National Laboratory",
+    "creator": "Idaho National Laboratory",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "page": "https://commons.wikimedia.org/w/index.php?curid=32324007",
+    "width": 1920,
+    "height": 1280,
+    "file": "images/laser-optics-idaho-national-laboratory.jpg",
+    "alt": "A researcher adjusting optical equipment at Idaho National Laboratory.",
+    "caption": "Laser optics at Idaho National Laboratory. Context photograph; layout crop."
+  },
+  "eland": {
+    "title": "Eland común (Taurotragus oryx), reserva natural Masái Mara, Kenia, 2024-05-20, DD 08",
+    "creator": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Eland_com%C3%BAn_(Taurotragus_oryx),_reserva_natural_Mas%C3%A1i_Mara,_Kenia,_2024-05-20,_DD_08.jpg",
+    "width": 1920,
+    "height": 1280,
+    "file": "images/eland-comun-taurotragus-oryx-reserva-natural-masai.jpg",
+    "alt": "A present-day common eland resting in Kenya’s Masai Mara.",
+    "caption": "Present-day common eland, Kenya. Photograph: Diego Delso. Context image; layout crop."
+  },
+  "power": {
+    "title": "Electricity transmission tower - geograph.org.uk - 4334892",
+    "creator": "Stephen Burton",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Electricity_transmission_tower_-_geograph.org.uk_-_4334892.jpg",
+    "width": 1920,
+    "height": 1442,
+    "file": "images/electricity-transmission-tower-geograph-org-uk-4334892.jpg",
+    "alt": "Power transmission lines suspended from a steel tower.",
+    "caption": "Electricity transmission infrastructure. Photograph: Stephen Burton. Context image; layout crop."
+  },
+  "mri": {
+    "title": "MRI Brain T1 Sag (13)",
+    "creator": "511KeV",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MRI_Brain_T1_Sag_(13).jpg",
+    "width": 1080,
+    "height": 1080,
+    "file": "images/mri-brain-t1-sag-13.jpg",
+    "alt": "A sagittal MRI cross-section of the human brain.",
+    "caption": "Human brain MRI. Image: 511KeV. Context image; layout crop."
   }
 }

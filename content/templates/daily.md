@@ -1,5 +1,5 @@
 ---
-{"title":"A concise, specific edition title","date":"YYYY-MM-DD","description":"One sentence explaining this edition’s central discoveries.","kind":"briefing","topics":["ai-computing","economics-work","unexpected"]}
+{"title":"A concise, specific edition title","date":"YYYY-MM-DD","description":"One sentence explaining this edition’s central discoveries.","kind":"briefing","topics":["ai-computing","economics-work","unexpected"],"cover":"space","visuals":{}}
 ---
 ## The big picture
 Explain the shared theme without forcing a connection. Target 5–10 minutes of reading overall.
@@ -24,3 +24,6 @@ Relevant specialist community or seminar, with a link and its strengths and limi
 
 ## One question
 A question that invites independent reasoning.
+
+## Source check
+Record the actual check date and any access limitations.
