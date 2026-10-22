@@ -1,0 +1,1 @@
+{"name":"the-frontier","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","test":"node --test","publish:daily":"node scripts/daily.mjs"},"dependencies":{"marked":"^18.1.1"},"engines":{"node":">=22"}}

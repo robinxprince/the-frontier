@@ -1,0 +1,23 @@
+name: Daily publication check
+on:
+  schedule:
+    - cron: '30 1 * * *' # 07:00 Asia/Kolkata; GitHub may delay scheduled starts.
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: daily-publication-check
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - run: npm test
+      - run: npm run publish:daily
