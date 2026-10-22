@@ -1,0 +1,50 @@
+{
+  "space": {
+    "title": "Orion Nebula - Hubble 2006 mosaic 18000",
+    "creator": "NASA, ESA, M. Robberto (Space Telescope Science Institute/ESA) and the Hubble Space Telescope Orion Treasury Project Team",
+    "license": "public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg",
+    "width": 1920,
+    "height": 1920,
+    "file": "images/orion-nebula-hubble-2006-mosaic-18000.jpg",
+    "alt": "Orion Nebula: luminous clouds and young stars photographed by Hubble.",
+    "caption": "Orion Nebula, Hubble, 2006. Seeing beyond the familiar."
+  },
+  "brain": {
+    "title": "Rat primary cortical neuron culture, deconvolved z-stack overlay (30614937102)",
+    "creator": "ZEISS Microscopy from Germany",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rat_primary_cortical_neuron_culture,_deconvolved_z-stack_overlay_(30614937102).jpg",
+    "width": 1280,
+    "height": 1027,
+    "file": "images/rat-primary-cortical-neuron-culture-deconvolved-z.jpg",
+    "alt": "Fluorescence microscopy of a rat cortical neuron culture.",
+    "caption": "Rat cortical neuron culture. Image: ZEISS Microscopy."
+  },
+  "earth": {
+    "title": "Blue Marble Western Hemisphere",
+    "creator": "NASA images by Reto Stöckli, based on data from NASA and NOAA. Instrument: Terra - MODIS",
+    "license": "public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Blue_Marble_Western_Hemisphere.jpg",
+    "width": 1280,
+    "height": 1280,
+    "file": "images/blue-marble-western-hemisphere.jpg",
+    "alt": "NASA Blue Marble composite of Earth’s western hemisphere.",
+    "caption": "Blue Marble western hemisphere. NASA Earth imagery."
+  },
+  "world": {
+    "title": "Earth's City Lights by DMSP, 1994-1995 (large)",
+    "creator": "Data: Marc Imhoff/NASA GSFC, Christopher Elvidge/NOAA NGDC; Image: Craig Mayhew and Robert Simmon/NASA GSFC",
+    "license": "public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Earth%27s_City_Lights_by_DMSP,_1994-1995_(large).jpg",
+    "width": 1280,
+    "height": 640,
+    "file": "images/earth-s-city-lights-by-dmsp-1994.jpg",
+    "alt": "A global map of city lights from satellite observations in 1994–1995.",
+    "caption": "Earth’s city lights, 1994–1995. A view of the systems we build."
+  }
+}
