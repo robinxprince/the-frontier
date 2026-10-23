@@ -156,16 +156,16 @@
     "caption": "The Thinker, Auguste Rodin, Musée Rodin, Paris. Context photograph; layout crop."
   },
   "chip": {
-    "title": "Multicrystalline silicon wafer with thin film iridescence",
-    "creator": "Radiotrefoil",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg",
+    "title": "NVIDIA GPU",
+    "creator": "Mickael Courtiade",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:NVIDIA_GPU.jpg",
     "width": 1600,
-    "height": 994,
-    "file": "images/multicrystalline-silicon-wafer-with-thin-film-iridescence.webp",
-    "alt": "A crystalline silicon wafer with an iridescent thin-film coating.",
-    "caption": "Silicon wafer with thin-film iridescence. Photograph: Radiotrefoil. Context photograph; layout crop."
+    "height": 1067,
+    "file": "images/nvidia-gpu-chip.webp",
+    "alt": "Close-up photograph of an NVIDIA graphics processor and the circuit traces around it.",
+    "caption": "NVIDIA GPU. Photograph: Mickael Courtiade, CC BY 2.0. A real graphics processor; context image for computing and AI."
   },
   "social-ties": {
     "title": "Information changes connections",
