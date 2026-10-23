@@ -58,5 +58,5 @@ test('homepage explorer matches the Thinker to the landscape frame and uses a cr
  assert.equal(images.chip.creator,'Mickael Courtiade');
  assert.equal(images.chip.license,'CC BY 2.0');
  assert(fs.readFileSync('public/site.js','utf8').includes("choice.dataset.imageFit==='thinker'"));
- assert(fs.readFileSync('public/style.css','utf8').includes('.explorer-image.explorer-image-thinker'));
+ assert(fs.readFileSync('public/style.css','utf8').includes('.explorer-image.explorer-image-thinker{height:auto;aspect-ratio:1.87/1;object-position:center 4%}'));
 });
