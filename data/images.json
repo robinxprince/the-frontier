@@ -94,5 +94,41 @@
     "file": "images/mri-brain-t1-sag-13.jpg",
     "alt": "A sagittal MRI cross-section of the human brain.",
     "caption": "Human brain MRI. Image: 511KeV. Context image; layout crop."
+  },
+  "tanker": {
+    "title": "2022-09-04 01 ACADIAN - IMO 9298715 tanker – St. John’s NL Canada",
+    "creator": "Gordon Leggett",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2022-09-04_01_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg",
+    "width": 1920,
+    "height": 1277,
+    "file": "images/2022-09-04-01-acadian-imo-9298715.jpg",
+    "alt": "The chemical and oil products tanker Acadian at sea.",
+    "caption": "Acadian, Newfoundland, 4 September 2022. Photograph: Gordon Leggett. Context image, not a vessel documented in the IEA analysis; layout crop."
+  },
+  "butterfly": {
+    "title": "Papilio machaon Mitterbach 01",
+    "creator": "Uoaei1",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Papilio_machaon_Mitterbach_01.jpg",
+    "width": 1920,
+    "height": 1280,
+    "file": "images/papilio-machaon-mitterbach-01.jpg",
+    "alt": "An Old World swallowtail butterfly resting on a purple flower.",
+    "caption": "Old World swallowtail, Austria, 2016. Photograph: Uoaei1. Context image, not a subject from the reported experiment; layout crop."
+  },
+  "dna": {
+    "title": "DNA Double Helix by NHGRI",
+    "creator": "National Human Genome Research Institute",
+    "license": "public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:DNA_Double_Helix_by_NHGRI.jpg",
+    "width": 1192,
+    "height": 897,
+    "file": "images/dna-double-helix-by-nhgri.jpg",
+    "alt": "An illustration of the paired strands of a DNA double helix.",
+    "caption": "DNA double helix. Illustration: National Human Genome Research Institute. Context illustration, not a result from the genome survey; layout crop."
   }
 }
