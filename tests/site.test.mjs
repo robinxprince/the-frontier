@@ -18,3 +18,29 @@ test('visual editions use registered images and preserve analysis in static HTML
  assert(html.includes('id="section-watch-and-learn"'));
  assert.equal((html.match(/class="signal-story"/g)||[]).length,6);
 });
+
+test('briefings require six to eight signals and an image for each',()=>{
+ const raw=fs.readFileSync('content/editions/2026-10-23.md','utf8');
+ const parts=raw.split('---\n'),meta=JSON.parse(parts[1]);
+ delete meta.visuals['Education rewires a village'];
+ assert.throws(()=>parseEdition('---\n'+JSON.stringify(meta)+'\n---\n'+parts[2]),/visual is required/);
+ const five=raw.replace(/### AI beyond word chunks[\s\S]*?(?=## The rabbit hole)/,'');
+ assert.throws(()=>parseEdition(five),/6–8/);
+ for(const e of editions()){
+  const html=fs.readFileSync('dist/editions/'+e.slug+'/index.html','utf8');
+  const count=(html.match(/class="signal-story"/g)||[]).length;
+  assert(count>=6&&count<=8);
+  assert.equal((html.match(/class="edition-figure"/g)||[]).length,count);
+ }
+});
+
+test('archive covers and distinct topic images are rendered from editorial data',()=>{
+ const archive=fs.readFileSync('dist/archive/index.html','utf8');
+ assert.equal((archive.match(/class="edition-row-visual"/g)||[]).length,editions().length);
+ const topics=JSON.parse(fs.readFileSync('data/topics.json','utf8'));
+ assert.equal(new Set(topics.map(t=>t.image)).size,topics.length);
+ for(const t of topics){const html=fs.readFileSync('dist/topics/'+t.id+'/index.html','utf8');assert(html.includes('class="field-opening"'))}
+ const home=fs.readFileSync('dist/index.html','utf8');
+ const previews=(home.match(/class="front-signal"/g)||[]).length;assert(previews>=6&&previews<=8);
+ assert(home.includes('AI-generated conceptual artwork'));
+});

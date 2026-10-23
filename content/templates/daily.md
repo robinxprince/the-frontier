@@ -5,7 +5,7 @@
 Explain the shared theme without forcing a connection. Target 5–10 minutes of reading overall.
 
 ## Signals
-Select 5–8 developments across several disciplines. For each, include exact publication/event dates, what happened, the problem, the mechanism, why it matters, evidence strength, limitations, what to watch next and direct primary source links. Distinguish preprints, peer-reviewed findings, institutional positions and forecasts.
+Select 6–8 developments across several disciplines. For each, include exact publication/event dates, what happened, the problem, the mechanism, why it matters, evidence strength, limitations, what to watch next and direct primary source links. Distinguish preprints, peer-reviewed findings, institutional positions and forecasts.
 
 ## The rabbit hole
 Explain an unfamiliar concept from first principles and link the evidence. Rotate beyond AI.
@@ -27,3 +27,5 @@ A question that invites independent reasoning.
 
 ## Source check
 Record the actual check date and any access limitations.
+
+Every briefing requires 6–8 verified signals and a registered, relevant visual for each signal. Use exact heading-to-image mappings. If verification is insufficient, broaden research and preserve a draft rather than inventing filler. AI-generated images must be labelled conceptual artwork and never presented as scientific evidence. The archive uses edition imagery; all topic fields have distinct relevant visuals.

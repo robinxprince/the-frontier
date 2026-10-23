@@ -20,6 +20,12 @@ export function parseEdition(raw,file='edition'){
  const links=[...body.matchAll(/\]\((https:\/\/[^\s)]+)\)/g)].map(x=>x[1]);
  if(!links.length)throw Error('Sources required');
  if(meta.kind==='briefing')for(const section of ['The big picture','Signals','The rabbit hole','Connect the dots','The unsolved problem','Watch and learn','Communities','One question'])if(!body.toLowerCase().includes('## '+section.toLowerCase()))throw Error(`Missing section: ${section}`);
+ if(meta.kind==='briefing'){
+  let active=false;const headings=[];
+  for(const token of md.lexer(body)){if(token.type==='heading'&&token.depth===2)active=token.text.toLowerCase()==='signals';else if(active&&token.type==='heading'&&token.depth===3)headings.push(token.text)}
+  if(headings.length<6||headings.length>8)throw Error('A briefing requires 6–8 verified signals');
+  for(const heading of headings)if(!meta.visuals?.[heading])throw Error('A relevant visual is required for every signal: '+heading);
+ }
  return {...meta,body,links};
 }
 export function editions(){return fs.readdirSync('content/editions').filter(x=>x.endsWith('.md')).map(file=>({...parseEdition(fs.readFileSync('content/editions/'+file,'utf8'),file),slug:file.slice(0,-3)})).sort((a,b)=>b.date.localeCompare(a.date)||a.slug.localeCompare(b.slug))}

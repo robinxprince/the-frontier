@@ -130,5 +130,77 @@
     "file": "images/dna-double-helix-by-nhgri.jpg",
     "alt": "An illustration of the paired strands of a DNA double helix.",
     "caption": "DNA double helix. Illustration: National Human Genome Research Institute. Context illustration, not a result from the genome survey; layout crop."
+  },
+  "court": {
+    "title": "Panorama of United States Supreme Court Building at Dusk",
+    "creator": "Joe Ravi",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg",
+    "width": 1920,
+    "height": 989,
+    "file": "images/panorama-of-united-states-supreme-court-building.jpg",
+    "alt": "The United States Supreme Court building illuminated at dusk.",
+    "caption": "United States Supreme Court at dusk. Photograph: Joe Ravi. Context photograph; layout crop."
+  },
+  "thinker": {
+    "title": "Le Penseur, grand modèle",
+    "creator": "Auguste Rodin",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Le_Penseur_Mus%C3%A9e_Rodin_Paris_S.1295.jpg",
+    "width": 1920,
+    "height": 2729,
+    "file": "images/le-penseur-grand-modele.jpg",
+    "alt": "Auguste Rodin’s bronze sculpture The Thinker.",
+    "caption": "The Thinker, Auguste Rodin, Musée Rodin, Paris. Context photograph; layout crop."
+  },
+  "chip": {
+    "title": "Multicrystalline silicon wafer with thin film iridescence",
+    "creator": "Radiotrefoil",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Multicrystalline_silicon_wafer_with_thin_film_iridescence.jpg",
+    "width": 1920,
+    "height": 1193,
+    "file": "images/multicrystalline-silicon-wafer-with-thin-film-iridescence.jpg",
+    "alt": "A crystalline silicon wafer with an iridescent thin-film coating.",
+    "caption": "Silicon wafer with thin-film iridescence. Photograph: Radiotrefoil. Context photograph; layout crop."
+  },
+  "atlas": {
+    "title": "An atlas of connections",
+    "creator": "THE FRONTIER using OpenAI image generation",
+    "license": "AI-generated conceptual artwork",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1536,
+    "height": 1024,
+    "file": "images/frontier-paper-atlas-v1.png",
+    "alt": "A continuous folded paper sculpture connects circuitry, mountain contours, ocean waves, botanical structures and an astronomical instrument around a cobalt glass lens.",
+    "caption": "An atlas of connections. AI-generated conceptual artwork for THE FRONTIER."
+  },
+  "social-ties": {
+    "title": "Information changes connections",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/social-ties.svg",
+    "alt": "Information changes connections. Illustrative diagram; not measured research data.",
+    "caption": "Information changes connections. Original explanatory illustration; not research data."
+  },
+  "byte-patches": {
+    "title": "Byte-level models learn how to group text",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/byte-patches.svg",
+    "alt": "Byte-level models learn how to group text. Illustrative diagram; not measured research data.",
+    "caption": "Byte-level models learn how to group text. Original explanatory illustration; not research data."
   }
 }

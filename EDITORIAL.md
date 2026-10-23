@@ -22,7 +22,7 @@ Verify claims and links directly. Give publication and event dates. Label older 
 
 ## Edition structure
 
-Follow `content/templates/daily.md`: the big picture; 5–8 signals; a rabbit hole; connect the dots; an unsolved problem; watch and learn; communities; one question. Each signal includes the mechanism, evidence, limitations, significance and a specific next milestone.
+Follow `content/templates/daily.md`: the big picture; 6–8 signals; a rabbit hole; connect the dots; an unsolved problem; watch and learn; communities; one question. Each signal includes the mechanism, evidence, limitations, significance and a specific next milestone.
 
 ## Video learning
 
@@ -39,3 +39,5 @@ Clear, rigorous, grounded and curious. No sensationalism, exaggerated prediction
 Each edition should feel like a readable research magazine: a story-specific cover, short highlights, expandable mechanisms/evidence/sources and relevant credited images. Use the edition's optional `cover` and `visuals` metadata to refer to registered assets in `data/images.json`; all edition text stays in Markdown. Keep exact signal headings as the mapping keys. The shared renderer adds navigation, reading-depth controls and subtle animation automatically. Choose visuals for understanding, not spectacle, and distinguish context photographs from direct scientific evidence.
 
 Where useful, include an accessible interactive demonstration with assumptions and a static fallback. Only use supported, relevant interactions. Never attach the inverse-problems demo to an unrelated topic just to create movement. Every control must work with a keyboard, and reduced-motion settings must keep content readable.
+
+Every briefing requires 6–8 verified signals and a registered, relevant visual for each signal. Use exact heading-to-image mappings. If verification is insufficient, broaden research and preserve a draft rather than inventing filler. AI-generated images must be labelled conceptual artwork and never presented as scientific evidence. The archive uses edition imagery; all topic fields have distinct relevant visuals.

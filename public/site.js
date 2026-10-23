@@ -35,7 +35,7 @@ if('IntersectionObserver' in window&&!matchMedia('(prefers-reduced-motion: reduc
  const reveal=new IntersectionObserver(entries=>{
   for(const entry of entries)if(entry.isIntersecting){entry.target.classList.add('reveal-in');reveal.unobserve(entry.target)}
  },{threshold:.15});
- document.querySelectorAll('.desk-intro,.featured-copy,.edition-contents,.section-intro>*,.topic-choice,.explorer-figure,.watch-title>*,.watch-sources>a,.archive-invite>*,.footer-top>*').forEach(el=>reveal.observe(el));
+ document.querySelectorAll('.desk-intro,.featured-copy,.edition-contents,.section-intro>*,.topic-choice,.explorer-figure,.watch-title>*,.watch-sources>a,.archive-invite>*,.footer-top>*,.front-signal,.edition-spread,.topic-tile,.field-opening>*,.cover-argument>*,.cover-context>*,.edition-row-visual>img,.edition-row-copy>*,.topic-tile>a>*').forEach(el=>reveal.observe(el));
 }
 
 // Every dated edition shares the same reading controls and optional explanations.

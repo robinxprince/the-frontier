@@ -33,7 +33,7 @@ export function editionPage({edition:e,images,url,date,topics}){
    return `<section class="edition-section signal-section" id="${id}"><div class="edition-section-intro"><h2>${esc(s.title)}</h2><p>${items.length} discoveries. Start with the idea, then open the mechanism and evidence.</p><div class="depth-controls" hidden><button data-depth="skim" aria-pressed="true">Highlights</button><button data-depth="full" aria-pressed="false">Full analysis</button></div></div>${content(intro)}<div class="edition-signals">${items.map(item=>{
     const key=e.visuals?.[item.title];const first=item.tokens.findIndex(t=>t.type==='paragraph'&&!(t.text.includes(' · ')&&t.text.length<90));
     const lead=first>=0?content([item.tokens[first]]):'';const rest=item.tokens.filter((t,i)=>i!==first);
-    return `<article class="signal-story">${key?figure(key,images,url):''}<div class="signal-copy"><h3>${esc(item.title)}</h3><div class="signal-lead">${lead}</div><details class="signal-analysis"><summary>Mechanism, evidence & sources</summary><div class="edition-prose">${content(rest)}</div></details></div></article>`;
+    return `<article class="signal-story" id="signal-${sectionId(item.title).slice(8)}">${key?figure(key,images,url):''}<div class="signal-copy"><h3>${esc(item.title)}</h3><div class="signal-lead">${lead}</div><details class="signal-analysis"><summary>Mechanism, evidence & sources</summary><div class="edition-prose">${content(rest)}</div></details></div></article>`;
    }).join('')}</div></section>`;
   }
   const interactive=title==='the rabbit hole'&&e.interactive==='inverse-problems'?experiment():'';
