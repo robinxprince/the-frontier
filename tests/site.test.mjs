@@ -42,5 +42,8 @@ test('archive covers and distinct topic images are rendered from editorial data'
  for(const t of topics){const html=fs.readFileSync('dist/topics/'+t.id+'/index.html','utf8');assert(html.includes('class="field-opening"'))}
  const home=fs.readFileSync('dist/index.html','utf8');
  const previews=(home.match(/class="front-signal"/g)||[]).length;assert(previews>=6&&previews<=8);
- assert(home.includes('AI-generated conceptual artwork'));
+ assert(home.includes('Stay curious.')&&home.includes('Go deeper.'));
+ assert(home.includes('Inside today’s edition'));
+ assert(home.includes('orion-nebula-hubble-2006-mosaic-18000.webp'));
+ assert(!home.includes('AI-generated'));
 });

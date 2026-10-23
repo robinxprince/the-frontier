@@ -28,4 +28,4 @@ A question that invites independent reasoning.
 ## Source check
 Record the actual check date and any access limitations.
 
-Every briefing requires 6–8 verified signals and a registered, relevant visual for each signal. Use exact heading-to-image mappings. If verification is insufficient, broaden research and preserve a draft rather than inventing filler. AI-generated images must be labelled conceptual artwork and never presented as scientific evidence. The archive uses edition imagery; all topic fields have distinct relevant visuals.
+Every briefing requires 6–8 verified signals and a registered, relevant visual for each signal. Use exact heading-to-image mappings. If verification is insufficient, broaden research and preserve a draft rather than inventing filler. Use documentary photography or original explanatory diagrams; do not use AI-generated images. The archive uses edition imagery; all topic fields have distinct relevant visuals.
