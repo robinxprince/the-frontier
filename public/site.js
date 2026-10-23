@@ -23,7 +23,7 @@ for(const choice of choices){
    explorerImage.src=choice.dataset.imageSrc;
    explorerImage.alt=choice.dataset.imageAlt;
    document.querySelector('#explorer-caption').textContent=choice.dataset.imageCaption;
-   explorerImage.classList.toggle('explorer-image-contain',choice.dataset.imageFit==='contain');
+   explorerImage.classList.toggle('explorer-image-square-top',choice.dataset.imageFit==='square-top');
    explorerImage.classList.remove('image-change');
    requestAnimationFrame(()=>explorerImage.classList.add('image-change'));
   };

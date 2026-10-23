@@ -48,15 +48,15 @@ test('archive covers and distinct topic images are rendered from editorial data'
  assert(!home.includes('AI-generated'));
 });
 
-test('homepage explorer keeps the Thinker portrait uncropped and uses a credited GPU photo',()=>{
+test('homepage explorer frames the Thinker in a square and uses a credited GPU photo',()=>{
  const home=fs.readFileSync('dist/index.html','utf8');
- assert(home.includes('data-image-fit="contain"'));
+ assert(home.includes('data-image-fit="square-top"'));
  assert(home.includes('nvidia-gpu-chip.webp'));
  assert(fs.existsSync('public/images/nvidia-gpu-chip.webp'));
  assert(!fs.existsSync('public/images/multicrystalline-silicon-wafer-with-thin-film-iridescence.webp'));
  const images=JSON.parse(fs.readFileSync('data/images.json','utf8'));
  assert.equal(images.chip.creator,'Mickael Courtiade');
  assert.equal(images.chip.license,'CC BY 2.0');
- assert(fs.readFileSync('public/site.js','utf8').includes("choice.dataset.imageFit==='contain'"));
- assert(fs.readFileSync('public/style.css','utf8').includes('.explorer-image.explorer-image-contain'));
+ assert(fs.readFileSync('public/site.js','utf8').includes("choice.dataset.imageFit==='square-top'"));
+ assert(fs.readFileSync('public/style.css','utf8').includes('.explorer-image.explorer-image-square-top'));
 });
