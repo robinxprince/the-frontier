@@ -190,5 +190,77 @@
     "file": "images/byte-patches.svg",
     "alt": "Byte-level models learn how to group text. Illustrative diagram; not measured research data.",
     "caption": "Byte-level models learn how to group text. Original explanatory illustration; not research data."
+  },
+  "protein-language": {
+    "title": "From words to a working protein",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/protein-language.svg",
+    "alt": "A design workflow from a functional prompt through a model to a candidate protein and laboratory test.",
+    "caption": "From words to a working protein. Original explanatory diagram; conceptual, not research data."
+  },
+  "ev-marker-workflow": {
+    "title": "The organ-of-origin problem",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/ev-marker-workflow.svg",
+    "alt": "A research workflow that purifies blood vesicles and combines protein and gene-expression data to identify candidate neuron markers.",
+    "caption": "The organ-of-origin problem. Original explanatory diagram; candidate workflow, not research data."
+  },
+  "glacier-termini": {
+    "title": "Where the ice ends changes its dynamics",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/glacier-termini.svg",
+    "alt": "Conceptual land, lake and ocean glacier endpoints, with a study result on lake-terminating glacier mass loss.",
+    "caption": "Where the ice ends changes its dynamics. Original explanatory diagram; cross-sections are illustrative, not research data."
+  },
+  "fibrin-biofilm": {
+    "title": "Remove the shield, reach the bacteria",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/fibrin-biofilm.svg",
+    "alt": "A two-part enzyme concept: one part degrades the fibrin barrier and the other attacks bacterial cell walls.",
+    "caption": "Remove the shield, reach the bacteria. Original explanatory diagram; not microscopy or measured data."
+  },
+  "retina-screening-flow": {
+    "title": "A screening test only helps if people get it",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/retina-screening-flow.svg",
+    "alt": "The point-of-care retinal image, AI screening and follow-up workflow with the study's screening-completion percentages.",
+    "caption": "A screening test only helps if people get it. Original explanatory diagram with study figures; not a diagnostic result."
+  },
+  "economic-labels": {
+    "title": "One policy mix, different labels",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/economic-labels.svg",
+    "alt": "A conceptual diagram showing overlapping policy preferences under different ideological labels.",
+    "caption": "One policy mix, different labels. Original conceptual illustration; not numerical data."
   }
 }
