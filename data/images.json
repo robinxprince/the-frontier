@@ -262,5 +262,101 @@
     "file": "images/economic-labels.svg",
     "alt": "A conceptual diagram showing overlapping policy preferences under different ideological labels.",
     "caption": "One policy mix, different labels. Original conceptual illustration; not numerical data."
+  },
+  "agent-lab-loop": {
+    "title": "A research agent works inside an experimental loop",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/agent-lab-loop.svg",
+    "alt": "A researcher frames a question, an AI agent coordinates literature and tools, a proposed experiment reaches an instrument, and results return for review.",
+    "caption": "Scientific discovery as a human-supervised loop. Original explanatory illustration; conceptual, not research data."
+  },
+  "molecular-rotor": {
+    "title": "Electric current turns a helicene molecule",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/molecular-rotor.svg",
+    "alt": "A helical molecule between two gold contacts rotates under electrical bias, changing conductance.",
+    "caption": "Current-driven molecular rotor. Original mechanism schematic; molecular motion not to scale."
+  },
+  "textile-computing": {
+    "title": "A digital fibre combines display and touch sensing",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/textile-computing.svg",
+    "alt": "Illustrated cutaway of a fibre with addressable pixels and a touch-sensing layer, connected to a woven sleeve display.",
+    "caption": "A computer surface made from fibres. Original explanatory illustration; conceptual cutaway, not study imagery."
+  },
+  "bh2-tissue-signal": {
+    "title": "Cold triggers a metabolite signal between tissues",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/bh2-tissue-signal.svg",
+    "alt": "In the worm study, cold increases muscle BH2 production; the metabolite moves to distant tissues and supports BH4-dependent processes.",
+    "caption": "A tissue-to-tissue metabolic signal. Original explanatory illustration; evidence is mainly from C. elegans and human cells."
+  },
+  "archaeal-methane": {
+    "title": "An archaeon converts fatty acids into methane",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/archaeal-methane.svg",
+    "alt": "A pathway schematic from long-chain fatty acids through beta oxidation and methanogenesis to methane.",
+    "caption": "Lipotrophic methanogenesis. Original pathway schematic; reactions are not shown to scale."
+  },
+  "marsh-wave": {
+    "title": "A large wave flume tested salt marsh protection",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/marsh-wave.svg",
+    "alt": "Cross-section of storm waves moving through marsh grasses toward a dike, with lower wave attenuation at higher-energy coasts.",
+    "caption": "How vegetation modifies storm waves. Original explanatory illustration; not the measured flume trace."
+  },
+  "denisovan-evidence": {
+    "title": "Ancient proteins help identify Denisovan fossils",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/denisovan-evidence.svg",
+    "alt": "A fossil leads to protein sequence comparison and then morphological comparison across East Asian hominin fossils.",
+    "caption": "From a collagen variant to a lineage hypothesis. Original explanatory illustration; not a fossil reconstruction."
+  },
+  "young-worker-gap": {
+    "title": "A gap in entry-level hiring",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/young-worker-gap.svg",
+    "alt": "Illustrative trend lines show a 19 percent relative employment gap for 22 to 25 year olds in AI-exposed occupations; the figure is not the study's underlying time series.",
+    "caption": "A descriptive employment gap in the Stanford working paper. Original explanatory illustration; not source data or causal evidence."
   }
 }
