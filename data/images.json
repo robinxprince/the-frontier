@@ -358,5 +358,77 @@
     "file": "images/young-worker-gap.svg",
     "alt": "Illustrative trend lines show a 19 percent relative employment gap for 22 to 25 year olds in AI-exposed occupations; the figure is not the study's underlying time series.",
     "caption": "A descriptive employment gap in the Stanford working paper. Original explanatory illustration; not source data or causal evidence."
+  },
+  "amazon-carbon-balance": {
+    "title": "Amazon carbon accounting from air samples",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/amazon-carbon-balance.svg",
+    "alt": "A conceptual diagram of aircraft vertical air sampling, which measures carbon dioxide at multiple heights; researchers combine these observations with wind and fire data to estimate regional carbon balance.",
+    "caption": "The diagram is conceptual; it does not plot the study data. Original explanatory illustration; conceptual, not research data."
+  },
+  "insula-map": {
+    "title": "Four functional zones mapped within the insula",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/insula-map.svg",
+    "alt": "A conceptual side-view brain outline with four colored insula zones and arrows indicating the reported asymmetric influence of the anterior pole on other insular regions.",
+    "caption": "The schematic does not show exact neuroanatomical boundaries. Original explanatory illustration; conceptual, not research data."
+  },
+  "root-state": {
+    "title": "A shared stress-responsive state across root cell lineages",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/root-state.svg",
+    "alt": "A conceptual branching root-cell lineage map overlaid with a common water-stress-responsive cell state regulated in part by abscisic acid.",
+    "caption": "The diagram is conceptual, not a single-cell atlas. Original explanatory illustration; conceptual, not research data."
+  },
+  "predator-cascade": {
+    "title": "Drought and prey decline alter predator interactions",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/predator-cascade.svg",
+    "alt": "A causal diagram linking disease-related rabbit decline and drought to increased lynx predation on kite nests, with potential downstream ecosystem effects.",
+    "caption": "The study is observational across decades; causal links vary in strength. Original explanatory illustration; conceptual, not research data."
+  },
+  "zeolite-pore": {
+    "title": "A catalyst pore can steer which acid forms",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/zeolite-pore.svg",
+    "alt": "A conceptual zeolite channel with reactants entering a constrained pore and products branching into different carboxylic acids according to pore geometry.",
+    "caption": "Conceptual reaction schematic; not an image of the catalyst. Original explanatory illustration; conceptual, not research data."
+  },
+  "antiferromagnetic-junction": {
+    "title": "An all-antiferromagnetic tunnel junction",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/antiferromagnetic-junction.svg",
+    "alt": "Two PtMn3 antiferromagnetic layers separated by an MgO tunnel barrier; an applied current drives switching and the relative states change resistance.",
+    "caption": "All-antiferromagnetic tunnel junction. Original conceptual mechanism diagram; not research data."
   }
 }
