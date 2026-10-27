@@ -3,7 +3,8 @@ import {splitSections,sectionId} from './edition.mjs';
 export const signalId=title=>'signal-'+sectionId(title).slice('section-'.length);
 export const imageTag=(key,images,url,cls='',priority=false)=>{
  const i=images[key];if(!i)throw Error('Unknown image '+key);
- return `<img class="${cls}" src="${url(i.file)}" alt="${esc(i.alt)}" width="${i.width}" height="${i.height}" ${priority?'fetchpriority="high"':'loading="lazy"'} decoding="async">`;
+ const src=/^https:\/\//.test(i.file)?i.file:url(i.file);
+ return `<img class="${cls}" src="${esc(src)}" alt="${esc(i.alt)}" width="${i.width}" height="${i.height}" ${priority?'fetchpriority="high"':'loading="lazy"'} decoding="async">`;
 };
 export function signals(edition){
  const section=splitSections(edition.body).find(s=>s.title.toLowerCase()==='signals');
