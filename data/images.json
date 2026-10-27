@@ -430,5 +430,77 @@
     "file": "images/antiferromagnetic-junction.svg",
     "alt": "Two non-collinear antiferromagnetic lattices face one another across an MgO barrier; a current pulses through the stack and changes its readout state.",
     "caption": "All-antiferromagnetic tunnel junction. Original conceptual illustration; not device microscopy or measured data."
+  },
+  "cephcam-loop": {
+    "title": "CephCam eye-brain-skin feedback loop",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/cephcam-loop.svg",
+    "alt": "A camera samples the surroundings; a processor adapts a pattern; angled display panels return it to the physical scene.",
+    "caption": "Closed loop, open-world caveat"
+  },
+  "linear-virosphere": {
+    "title": "Finding the open ends of viral genomes",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/linear-virosphere.svg",
+    "alt": "Thousands of colored linear genome strands; matching terminal motifs reveal full strands that circularity-based screens overlook.",
+    "caption": "A conceptual illustration of terminal-repeat matching; not a measured genome image."
+  },
+  "pathology-energy": {
+    "title": "Histology models and the training-data tradeoff",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/pathology-energy.svg",
+    "alt": "A digital tissue section is tiled into image patches; self-supervised pretraining feeds a general representation, while task-specific labels refine a cancer-grade decision.",
+    "caption": "Conceptual workflow; not patient tissue or clinical output."
+  },
+  "barents-spring": {
+    "title": "Spring production beneath Arctic ice",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/barents-spring.svg",
+    "alt": "A seasonal Arctic water column showing light, ice melt, nitrate replenishment and phytoplankton, with a thinning spring bloom.",
+    "caption": "Conceptual cross-section; not satellite data or a measured map."
+  },
+  "dinosaur-soft-egg": {
+    "title": "A flexible Early Jurassic eggshell",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/dinosaur-soft-egg.svg",
+    "alt": "A fossil egg cross-section, thick membrane, thin non-interlocking mineral layer and cuticle, set within Jurassic sediment.",
+    "caption": "Conceptual cross-section based on the paper description; not a specimen photograph."
+  },
+  "amyloid-rna": {
+    "title": "A protein fibril carries RNA toward sperm",
+    "creator": "THE FRONTIER",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://github.com/robinxprince/the-frontier",
+    "width": 1200,
+    "height": 700,
+    "file": "images/amyloid-rna.svg",
+    "alt": "A charged protein fibril binds RNA fragments; the fibril is taken up by sperm in experiments and can be carried into an IVF embryo.",
+    "caption": "Conceptual mechanism; experiments do not establish natural gene-regulation effects in humans."
   }
 }
