@@ -431,76 +431,76 @@
     "alt": "Two non-collinear antiferromagnetic lattices face one another across an MgO barrier; a current pulses through the stack and changes its readout state.",
     "caption": "All-antiferromagnetic tunnel junction. Original conceptual illustration; not device microscopy or measured data."
   },
-  "cephcam-loop": {
-    "title": "CephCam eye-brain-skin feedback loop",
-    "creator": "THE FRONTIER",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "page": "https://github.com/robinxprince/the-frontier",
-    "width": 1200,
-    "height": 700,
-    "file": "images/cephcam-loop.svg",
-    "alt": "A camera samples the surroundings; a processor adapts a pattern; angled display panels return it to the physical scene.",
-    "caption": "Closed loop, open-world caveat"
+  "cephcam-cuttlefish": {
+    "title": "Common Cuttlefish at the New England Aquarium",
+    "creator": "Camcintire",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Common_Cuttlefish_at_the_New_England_Aquarium.jpg",
+    "width": 1800,
+    "height": 1350,
+    "file": "images/cephcam-cuttlefish.webp",
+    "alt": "A common cuttlefish displaying striped skin inside its aquarium habitat.",
+    "caption": "Common cuttlefish, New England Aquarium, 2020. Photograph: Camcintire. Context image; not the CephCam test vehicle."
   },
-  "linear-virosphere": {
-    "title": "Finding the open ends of viral genomes",
-    "creator": "THE FRONTIER",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "page": "https://github.com/robinxprince/the-frontier",
-    "width": 1200,
-    "height": 700,
-    "file": "images/linear-virosphere.svg",
-    "alt": "Thousands of colored linear genome strands; matching terminal motifs reveal full strands that circularity-based screens overlook.",
-    "caption": "A conceptual illustration of terminal-repeat matching; not a measured genome image."
+  "linear-viruses": {
+    "title": "H1N1 virus particles",
+    "creator": "National Institute of Allergy and Infectious Diseases (NIAID), NIH",
+    "license": "Public domain (U.S. federal work)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:H1N1_virus_particles.jpg",
+    "width": 1800,
+    "height": 1800,
+    "file": "images/linear-virosphere.webp",
+    "alt": "A colorized transmission electron micrograph of clustered H1N1 influenza virus particles.",
+    "caption": "Colorized transmission electron micrograph of H1N1. Image: NIAID/NIH. Context image; not viruses from the genome survey."
   },
-  "pathology-energy": {
-    "title": "Histology models and the training-data tradeoff",
-    "creator": "THE FRONTIER",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "page": "https://github.com/robinxprince/the-frontier",
-    "width": 1200,
-    "height": 700,
-    "file": "images/pathology-energy.svg",
-    "alt": "A digital tissue section is tiled into image patches; self-supervised pretraining feeds a general representation, while task-specific labels refine a cancer-grade decision.",
-    "caption": "Conceptual workflow; not patient tissue or clinical output."
+  "prostate-histology": {
+    "title": "Histology of normal prostate",
+    "creator": "Mikael Häggström, M.D.",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Histology_of_normal_prostate.jpg",
+    "width": 1800,
+    "height": 1347,
+    "file": "images/prostate-pathology.webp",
+    "alt": "A pink-and-purple H&E-stained microscope image of normal prostate tissue and glands.",
+    "caption": "Normal prostate histology, H&E stain. Photograph: Mikael Häggström. Context image; not study data."
   },
-  "barents-spring": {
-    "title": "Spring production beneath Arctic ice",
-    "creator": "THE FRONTIER",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "page": "https://github.com/robinxprince/the-frontier",
-    "width": 1200,
-    "height": 700,
-    "file": "images/barents-spring.svg",
-    "alt": "A seasonal Arctic water column showing light, ice melt, nitrate replenishment and phytoplankton, with a thinning spring bloom.",
-    "caption": "Conceptual cross-section; not satellite data or a measured map."
+  "barents-phytoplankton": {
+    "title": "Phytoplankton bloom in the Barents Sea",
+    "creator": "European Union, Copernicus Sentinel-3 imagery",
+    "license": "Copernicus Sentinel data terms (source attribution required)",
+    "licenseUrl": "https://cds.climate.copernicus.eu/licences/ec-sentinel",
+    "page": "https://commons.wikimedia.org/wiki/File:Phytoplankton_bloom_in_the_Barents_Sea.jpg",
+    "width": 1800,
+    "height": 1304,
+    "file": "images/barents-phytoplankton.webp",
+    "alt": "A satellite view of turquoise phytoplankton bloom patterns in the Barents Sea, surrounded by clouds.",
+    "caption": "Barents Sea phytoplankton bloom, Sentinel-3, 21 August 2020. Contains modified Copernicus Sentinel data 2020. Context image; not the study's spring observations."
   },
-  "dinosaur-soft-egg": {
-    "title": "A flexible Early Jurassic eggshell",
-    "creator": "THE FRONTIER",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "page": "https://github.com/robinxprince/the-frontier",
-    "width": 1200,
-    "height": 700,
-    "file": "images/dinosaur-soft-egg.svg",
-    "alt": "A fossil egg cross-section, thick membrane, thin non-interlocking mineral layer and cuticle, set within Jurassic sediment.",
-    "caption": "Conceptual cross-section based on the paper description; not a specimen photograph."
+  "museum-dinosaur-egg": {
+    "title": "Fossil Dinosaur Egg",
+    "creator": "Gary Todd",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Fossil_Dinosaur_Egg.jpg",
+    "width": 1800,
+    "height": 1200,
+    "file": "images/dinosaur-egg.webp",
+    "alt": "A fossilized dinosaur egg displayed on a stand in a museum case.",
+    "caption": "Fossil dinosaur egg at Sanmenxia City Museum. Photograph: Gary Todd. Context image; not the specimen in the paper."
   },
-  "amyloid-rna": {
-    "title": "A protein fibril carries RNA toward sperm",
-    "creator": "THE FRONTIER",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "page": "https://github.com/robinxprince/the-frontier",
-    "width": 1200,
-    "height": 700,
-    "file": "images/amyloid-rna.svg",
-    "alt": "A charged protein fibril binds RNA fragments; the fibril is taken up by sperm in experiments and can be carried into an IVF embryo.",
-    "caption": "Conceptual mechanism; experiments do not establish natural gene-regulation effects in humans."
+  "sperm-sem": {
+    "title": "Human Spermatozoa, Scanning Electron Micrograph",
+    "creator": "Enver Kerem Dirican",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Human_Spermatozoa,_Scanning_Electron_Micrograph.jpg",
+    "width": 1800,
+    "height": 1350,
+    "file": "images/sperm-sem.webp",
+    "alt": "A grayscale scanning electron micrograph of sperm cells at high magnification.",
+    "caption": "Human spermatozoa, scanning electron micrograph. Image: Enver Kerem Dirican. Context image; not the 2026 paper's amyloid/RNA result."
   }
 }
