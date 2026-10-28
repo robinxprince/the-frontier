@@ -502,5 +502,41 @@
     "file": "https://upload.wikimedia.org/wikipedia/commons/8/8d/STM_rotor.gif",
     "alt": "Scanning tunnelling microscopy frames show a three-part molecular rotor turning inside a nanoscale pore.",
     "caption": "Molecular rotor under a scanning tunnelling microscope. Palma et al., public domain. A different 2014 rotor experiment, used as context for the 2026 device."
+  },
+  "coral-reef": {
+    "title": "Colorful underwater landscape of a coral reef",
+    "creator": "Jim E. Maragos, U.S. Fish and Wildlife Service",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Colorful_underwater_landscape_of_a_coral_reef.jpg",
+    "width": 1280,
+    "height": 853,
+    "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Colorful_underwater_landscape_of_a_coral_reef.jpg/1280px-Colorful_underwater_landscape_of_a_coral_reef.jpg",
+    "alt": "Colorful coral reef with fish in a sunlit underwater landscape.",
+    "caption": "Coral reef photograph: Jim E. Maragos, U.S. Fish and Wildlife Service, public domain. Context image; the study forecasts heat stress across 12 reef regions."
+  },
+  "rice-paddy": {
+    "title": "Rice Paddy Field",
+    "creator": "Prathvi Acharya",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Rice_Paddy_Field.jpg",
+    "width": 960,
+    "height": 1280,
+    "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rice_Paddy_Field.jpg/960px-Rice_Paddy_Field.jpg",
+    "alt": "Green rice plants growing in a managed paddy field.",
+    "caption": "Rice paddy, photograph: Prathvi Acharya, CC BY 4.0. Context image; not one of the soils tested in the study."
+  },
+  "human-cell": {
+    "title": "Human cell under fluorescence microscopy",
+    "creator": "Marc Vidal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Human_Cell.jpg",
+    "width": 1280,
+    "height": 1118,
+    "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Human_Cell.jpg/1280px-Human_Cell.jpg",
+    "alt": "Fluorescence micrograph showing a human cell membrane, nucleus and quantum dots.",
+    "caption": "Human cell under fluorescence microscopy. Photograph: Marc Vidal, CC BY-SA 4.0. Context image; the scBOA study analysed sequencing data, not this cell."
   }
 }
