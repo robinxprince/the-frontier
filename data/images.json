@@ -538,5 +538,77 @@
     "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Human_Cell.jpg/1280px-Human_Cell.jpg",
     "alt": "Fluorescence micrograph showing a human cell membrane, nucleus and quantum dots.",
     "caption": "Human cell under fluorescence microscopy. Photograph: Marc Vidal, CC BY-SA 4.0. Context image; the scBOA study analysed sequencing data, not this cell."
+  },
+  "agriculture-aerial": {
+    "title": "Aerial view of agriculture in Sacramento County",
+    "creator": "Roc0ast3r",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_agriculture_in_Sacramento_County.jpg",
+    "width": 960,
+    "height": 1360,
+    "file": "images/agriculture-aerial.webp",
+    "alt": "Aerial photograph of geometric farm fields in Sacramento County, seen from an aircraft.",
+    "caption": "Agricultural mosaic, Sacramento County. Photograph: Roc0ast3r, CC0. Context image, not a region analyzed in the study; layout crop."
+  },
+  "bering-phytoplankton": {
+    "title": "Phytoplankton Bloom off Alaska (MODIS 2020-09-12)",
+    "creator": "MODIS Land Rapid Response Team, NASA GSFC",
+    "license": "Public domain (U.S. federal work)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Phytoplankton_Bloom_off_Alaska_(MODIS_2020-09-12).jpg",
+    "width": 1280,
+    "height": 995,
+    "file": "images/bering-phytoplankton.webp",
+    "alt": "Satellite image of jewel-toned phytoplankton bloom swirls in the Bering Sea near Alaska.",
+    "caption": "Bering Sea phytoplankton bloom, NASA Aqua MODIS, 4 September 2020. Public domain. Context image; not the study’s observations; layout crop."
+  },
+  "ecoli-sem": {
+    "title": "Escherichia coli (SEM)",
+    "creator": "CDC/Evangeline Sowers, Janice Carr",
+    "license": "Public domain (U.S. federal work)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Escherichia_coli_(SEM).jpg",
+    "width": 1280,
+    "height": 870,
+    "file": "images/ecoli-sem.webp",
+    "alt": "Scanning electron micrograph of Escherichia coli cells at 12,800 times magnification.",
+    "caption": "E. coli, scanning electron micrograph. Image: CDC/Evangeline Sowers and Janice Carr, 2005. Public domain. Context image; not the hospital-sewer isolates; layout crop."
+  },
+  "mof-nist": {
+    "title": "Metal-Organic Framework (6898958430)",
+    "creator": "National Institute of Standards and Technology (NIST)",
+    "license": "Public domain (U.S. federal work)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Metal-Organic_Framework_(6898958430).jpg",
+    "width": 1280,
+    "height": 1194,
+    "file": "images/mof-nist.webp",
+    "alt": "Molecular illustration showing a porous metal-organic framework and small hydrocarbon molecules.",
+    "caption": "NIST illustration of molecules interacting with a metal-organic framework pore. Public domain. Explanatory context, not the material tested in the reported paper."
+  },
+  "graphene-sem": {
+    "title": "Graphene flakes, scanning electron micrograph",
+    "creator": "Capkuckokos",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Graphene_flakes.JPG",
+    "width": 1024,
+    "height": 717,
+    "file": "images/graphene-sem.webp",
+    "alt": "Scanning electron micrograph of thin graphene flakes, with a 100-nanometre scale bar.",
+    "caption": "Graphene flakes, scanning electron micrograph. Photograph: Capkuckokos, CC BY-SA 4.0. Context image; not the monolayer-bilayer device in the study; layout crop."
+  },
+  "clinical-ai-workstation": {
+    "title": "Doctor working at a desk in a medical office",
+    "creator": "Shixart1985 / Nenad Stojković",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg",
+    "width": 1280,
+    "height": 853,
+    "file": "images/clinical-ai-workstation.webp",
+    "alt": "A physician using a computer workstation in a medical office.",
+    "caption": "Physician at a workstation. Photograph: Shixart1985 / Nenad Stojković, CC BY 2.0. Context photograph; not a participant or setting from the clinical-AI study; layout crop."
   }
 }
